@@ -1,16 +1,16 @@
 {
-  "name": "@task-manager-software/model-node",
+  "name": "@task-manager-software/data-access-typeorm",
   "version": "1.0.1",
-  "description": "Task Manager Software - Model Node",
-  "repository": "https://github.com/Task-Manager-Software/Model-Node",
+  "description": "Task Manager Software - Data Access TypeORM",
+  "repository": "https://github.com/Task-Manager-Software/Data-Access-TypeORM",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@OWNER"
   },
   "author": "Task Manager Software Team",
   "bugs": {
-    "url": "https://github.com/TaskManagerSoftware/Model-Node/issues"
+    "url": "https://github.com/TaskManagerSoftware/Data-Access-TypeORM/issues"
   },
-  "homepage": "https://github.com/TaskManagerSoftware/Model-Node#readme",
+  "homepage": "https://github.com/TaskManagerSoftware/Data-Access-TypeORM#readme",
   "main": "dist/main.js",
   "types": "dist/index.d.ts",
   "scripts": {
