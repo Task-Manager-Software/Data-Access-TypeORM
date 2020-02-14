@@ -1,6 +1,6 @@
 {
   "name": "@task-manager-software/data-access-typeorm",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Task Manager Software - Data Access TypeORM",
   "repository": "https://github.com/Task-Manager-Software/Data-Access-TypeORM",
   "publishConfig": {
